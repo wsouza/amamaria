@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Ama Maria</string>
+    <string name="titulo_1">Bem-vindo ao \n aplicativo Ama Maria</string>
+    <string name="titulo_2">Um app feito \n para te proteger</string>
+    <string name="titulo_3">Deixe-nos ajudar</string>
+    <string name="titulo_4">Falta pouco</string>
+
+    <string name="desc_1">Uma iniciativa da Policia Civil \n com apoio da Prefeitura \n Municipal de Brumado</string>
+    <string name="desc_2">Uma ferramenta \n de apoio e proteção</string>
+    <string name="desc_3">Cadastre seus protetores</string>
+    <string name="desc_4">Vamos começar?</string>
+
+    <string name="cadastre_se">Junte-se a muitas Marias \n e conte com nossa rede de apoio.</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_home">Principal</string>
+    <string name="title_activity_protetores">Protetores</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="config">Preferências</string>
+    <string name="menu_preferencias">Preferências</string>
+    <string name="questionario">Questionário</string>
+    <string name="meus_dados">Meus Dados</string>
+    <string name="rede_apoio">Rede de Apoio</string>
+    <string name="panico">Botão do Pânico</string>
+    <string name="historico">Histórico</string>
+    <string name="localizacao">Protetores</string>
+    <string name="informar">Informar Aproximação</string>
+
+
+    <string name="title_questionario1">Questionário</string>
+    <string name="title_questionario2">Ciclo da Violência Doméstica</string>
+
+    <string name="txtRede">Nos permita ajudar, conheça a rede de apoio do Aplicativo Ama Maria.</string>
+    <string name="txtHistorico">Sempre que o botão do pânico e/ou botão de aproximação for acionado, registraremos a data e o local.</string>
+    <string name="txtProtetores">Ao acionar o botão do pânico, todos os contatos abaixo receberão um ALERTA.</string>
+
+
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="cadProtetor">Cadastrar Protetor</string>
+
+    <string name="questao1">1 - O seu companheiro já lhe agrediu fisicamente?</string>
+    <string name="questao2">2 - Ele lhe agride com xingamentos e/ou ameaças?</string>
+    <string name="questao3">3 - Ele se torna mais gentil depois de ter lhe agredido física ou psicologicamente?</string>
+    <string name="questao4">4 - Você já pensou em deixá-lo, mas, tem medo de como ele possa reagir?</string>
+    <string name="questao5">5 - Ele controla com quem você anda e os seus horários  de saída e chegada?</string>
+    <string name="questao6">6 - Depois que ele lhe agride, parece estar arrependendo e diz que vai mudar?</string>
+
+
+    <string name="sair">Sair</string>
+    <string name="meusDados">Meus Dados</string>
+    <string name="configApp">Configurações</string>
+    <string name="title_activity_questionario">QuestionarioActivity</string>
+
+</resources>
